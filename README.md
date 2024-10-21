@@ -1,16 +1,19 @@
-## Hi there 👋
+# Sveiki atvykę į mano GitHub!
 
-<!--
-**DaivaVaic/DaivaVaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Apie mane
+Esu duomenų analitikas, dirbantis su įvairiomis duomenų analizės priemonėmis. Nors esu šioje srityje naujokas, esu labai motyvuotas ir pasirengęs mokytis bei tobulėti.
 
-Here are some ideas to get you started:
+## Įrankiai, kuriuos naudoju
+- **MySQL**
+- **SQLite**
+- **Power BI**
+- **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mano tikslas
+Ieškau galimybių dirbti duomenų analitikos srityje ir tobulinti savo įgūdžius.
+
+## Kontaktai
+Galite su manimi susisiekti [jūsų el. paštas] arba per socialinius tinklus:
+- [LinkedIn profilis](https://www.linkedin.com/in/jūsų-profilis)
+
+Džiaugiuosi galėdamas pasidalinti savo projektuose ir idėjose!

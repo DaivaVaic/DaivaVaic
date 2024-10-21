@@ -1,6 +1,5 @@
 # Sveiki atvykę į mano GitHub!
 
-https://github.com/antonkomarev/github-profile-views-counter
 ![](https://komarev.com/ghpvc/?username=DaivaVaic&base=50&abbreviated=true)
 
 ## Apie mane
